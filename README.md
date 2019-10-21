@@ -1,4 +1,4 @@
-[![FaktNews](logo-header.svg "Logo")](http://jonmarsh.tech)
+[![FaktNews](logo-header.svg "Logo")](http://jonmarsh.tech) [![Greenkeeper badge](https://badges.greenkeeper.io/j-m/faktnews.svg)](https://greenkeeper.io/)
 
 For Aston University's 2017 Hackathon we <a href="https://devpost.com/software/faktnews">submitted</a> a browser extension called FaktNews. FaktNews grades the trustworthiness of the website you're currently viewing. For each website you visit, we average [Majestic's](https://majestic.com) trustworthiness and citation values, our own measure, and a community's vote to give you an overall grade.
 
